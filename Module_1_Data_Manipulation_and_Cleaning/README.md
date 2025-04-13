@@ -1,7 +1,9 @@
 # Missing Data Imputation and Outlier Detection
 
 This repository presents a complete workflow for handling missing values and identifying potential error records in a clinical dataset using R. The techniques include MCAR testing, multiple imputation with MICE, and outlier detection via Local Outlier Factor (LOF) and z-score diagnostics.
+
 The working language will be R, based on the scripts provided in the course materials.
+
 Dataset Source: Course materials: Module 1
 
 Source code: ./DataClearning/
