@@ -4,8 +4,8 @@ This repository presents a complete workflow for handling missing values and ide
 The working language will be R, based on the scripts provided in the course materials.
 Dataset Source: Course materials: Module 1
 
-Source code: ./
-Output: ./Outputs/Graphs/
+Source code: ./DataClearning/
+Output: ./Outputs/graphs/
 
 # Working flows
 1. **Data Import & Cleaning**
@@ -35,7 +35,7 @@ Output: ./Outputs/Graphs/
 
 
 # Insights
-- `**pmm**` preserves original variable distribution better than `**rf**`
+- **pmm** preserves original variable distribution better than **rf**
 - LOF combined with z-score offers robust error detection
 - Manual review is essential to differentiate between true outliers and data entry errors
 
