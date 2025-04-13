@@ -25,7 +25,7 @@ Output: ./Outputs/graphs/
    - Generated and compared imputed datasets
 4.  **Visualization**
    - Plotted distributions: original vs. imputed
-   -  Compared distributions of imputed vs. original data, both PMM and RF methods produced similar results
+   -  Compared distributions of imputed vs. original data, both PMM and RF methods produced similar results (Compared each feature)
    - In this project, `PPM` is selected as the recommended interpolation method, mainly considering its ability to maintain the original data distribution. The actual effect is close to the `RF` method.
 5.  **Outlier Detection**
   - Applied LOF (`dbscan::lof`) to detect multivariate anomalies
