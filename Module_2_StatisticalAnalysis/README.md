@@ -7,7 +7,8 @@ This work aims to use R language for systematic analysis of data. The main objec
 - Use EDA reports to automatically summarize data quality and structure (`./Outputs/all_results.html`)
 
 
-Highlights of processing lipids5 variable:
+
+Highlights of processing `lipids5` variable:
 - The initial missing rate is about 24%;
 - The PMM method was successfully used for interpolation;
 - The distribution curves almost coincide before and after interpolation → support the use of the PMM method;
