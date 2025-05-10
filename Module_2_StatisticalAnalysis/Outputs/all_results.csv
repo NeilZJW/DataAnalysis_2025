@@ -1,0 +1,10 @@
+"Variable","Outcome_0_Distribution","Outcome_0_ParamName1","Outcome_0_Param1","Outcome_0_ParamName2","Outcome_0_Param2","Outcome_1_Distribution","Outcome_1_ParamName1","Outcome_1_Param1","Outcome_1_ParamName2","Outcome_1_Param2","Brunner_Munzel_P"
+"lipids1","lognormal","Mu_0",-0.1254,"Sigma_0",0.4123,"lognormal","Mu_1",-0.0911,"Sigma_1",0.4026,0.21671
+"lipids2","lognormal","Mu_0",1.4755,"Sigma_0",0.1989,"lognormal","Mu_1",1.5418,"Sigma_1",0.194,0.00017
+"lipids3","lognormal","Mu_0",0.068,"Sigma_0",0.2514,"lognormal","Mu_1",0.0811,"Sigma_1",0.236,0.57076
+"lipids4","lognormal","Mu_0",1.0307,"Sigma_0",0.2979,"lognormal","Mu_1",1.1204,"Sigma_1",0.2907,0.00075
+"lipids5","lognormal","Mu_0",-0.9283,"Sigma_0",0.5383,"lognormal","Mu_1",-0.9074,"Sigma_1",0.5268,0.42211
+"hormone1","lognormal","Mu_0",0.4046,"Sigma_0",0.6088,"lognormal","Mu_1",0.3826,"Sigma_1",0.5037,0.74996
+"hormone2","lognormal","Mu_0",5.7675,"Sigma_0",0.5457,"lognormal","Mu_1",5.8815,"Sigma_1",0.5102,0.00359
+"hormone3","exponential","Rate_0",0.1112,NA,NA,"lognormal","Mu_1",1.872,"Sigma_1",0.9014,0.13068
+"hormone4","lognormal","Mu_0",1.7024,"Sigma_0",0.6864,"lognormal","Mu_1",1.842,"Sigma_1",0.759,0.16351
