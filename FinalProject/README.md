@@ -32,7 +32,7 @@ Through Spearman correlation test and Logistic regression analysis, we found tha
 - A history of stroke (prevalent stroke): Individuals with a history of stroke have a significantly increased risk of CHD (OR = 2.76, p < 0.05).
 - Glucose and daily cigarette consumption (cigsPerDay) were also positively correlated with CHD (p < 0.001).
 ## 2. Analysis of the Effect of LogisticRegression Model
-![image](https://github.com/user-attachments/assets/de7c1038-3c26-4fa0-8639-194b8c4f148c)
+![1750526470236](https://github.com/user-attachments/assets/e8e3c0f3-9c64-4523-8578-4511b6461016)
 - Although the AIC of the stepwise regression model is lower (indicating better model quality), its ability to identify CHD patients is slightly lower (with a decrease of 5 true positives). 
 - The AUC difference between the two is extremely small (<0.001), indicating comparable performance.
 ## 3. Visualization and Interpretation of Models
