@@ -7,17 +7,17 @@ Target variable:
 - Input variables include multiple indicators such as age, gender, blood pressure, diabetes, BMI, cholesterol, smoking, and blood sugar levels.
 
 # Analysis process
-## 1. Data processing and imputation
+### 1. Data processing and imputation
 - Use the `mice` package to perform `PMM` imputation for missing values. 
 - Remove or correct logical outliers (such as the daily cigarette count of non-smokers). 
-## 2. Correlation Analysis
+### 2. Correlation Analysis
 - Spearman correlation + permutation test was used to evaluate the strength of the association between independent variables and `TenYearCHD`. 
-## 3. Modeling and Comparison
+### 3. Modeling and Comparison
 - Establish two models: 
   - Full-variable logistic regression model 
   - Stepwise regression model (based on AIC) 
 - Variable significance test and OR (Odds Ratio) plotting analysis. 
-## 4. Model Evaluation
+### 4. Model Evaluation
 - Compare model performance using ROC curves 
 - Output the AUC value and confusion matrix. 
 - Compare the model accuracy, complexity and the differences in TP and FP.
